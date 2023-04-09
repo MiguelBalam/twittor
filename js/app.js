@@ -10,6 +10,8 @@ if (navigator.serviceWorker){
     navigator.serviceWorker.register(swLocation);
 }
 
+
+
 // Referencias de jQuery
 
 var titulo      = $('#titulo');
