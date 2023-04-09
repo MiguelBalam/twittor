@@ -15,7 +15,6 @@ const APP_SHELL = [
     'img/avatars/thor.jpg',
     'js/app.js',
     'js/sw-utils.js',
-    'https://use.fontawesome.com/releases/v5.3.1/css/all.css'
 ];
 
 // cosas que no van a cambiar
